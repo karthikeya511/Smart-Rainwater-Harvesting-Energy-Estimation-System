@@ -2,7 +2,7 @@
 dataset/
 
 # Ignore model files
-Models/
+Models/*.pkl
 
 # Ignore file types
 *.csv
