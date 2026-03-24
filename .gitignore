@@ -1,0 +1,18 @@
+# Ignore datasets
+dataset/
+
+# Ignore model files
+Models/
+
+# Ignore file types
+*.csv
+*.pkl
+*.h5
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
